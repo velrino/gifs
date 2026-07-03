@@ -12,18 +12,33 @@ catalog. There is no build step, package manager, or app code.
 
 ### Reactions
 
+- `200.gif`
+- `borat-dancing.gif`
 - `dance-funny.gif`
 - `eh-bee.gif`
 - `explosion.gif`
 - `giphy copy.gif`
-- `giphy.gif`
 - `its-happening-friday.gif`
+- `japan-japanese.gif`
 - `jurassic-park-surprised.gif`
 - `oscars-standing-ovation.gif`
+- `pedro-pascal-laughing-then-crying.gif`
 - `perfect-10.gif`
 - `screaming.gif`
+- `see-nobody-cares-nobody-cares (1).gif`
+- `see-nobody-cares-nobody-cares.gif`
 - `shrek-surprised.gif`
+- `the-rock-think.gif`
 - `wow.gif`
+- `zleffy.gif`
+
+### Animals
+
+- `brutally-honest-dog-honest-dog.gif`
+- `cachorro-julgando-judge-dog.gif`
+- `dog-angry.gif`
+- `judgy-dog-angry-dog.gif`
+- `manchas-dog.gif`
 
 ### People and Characters
 
@@ -33,26 +48,45 @@ catalog. There is no build step, package manager, or app code.
 - `homelander-crowd.gif`
 - `jon-flex-tape.gif`
 - `jon-snow-game-of-thrones.gif`
-- `jose-mourinho-funky.gif`
 - `lamar-humble.gif`
+- `miss-chaves.gif`
 - `nicolas-cag.gif`
 - `putin-rain-putin.gif`
+- `ratinho-viadão.gif`
+- `the-rock-the-rock-meme.gif`
 - `tony-stark.gif`
 - `vegeta.gif`
 
 ### Sports
 
+- `carlo-ancelotti-brazil.gif`
+- `carlo-ancelotti-smile.gif`
+- `carlo-ancelotti.gif`
+- `jose-mourinho-funky.gif`
+- `messi-crying.gif`
+- `messi-kiss-lionel-messi.gif`
 - `neymar.gif`
 - `neymar-2.gif`
 - `neymar-funny.gif`
 - `neymar-nikão.gif`
+- `renéhiguita-higuita.gif`
+- `ronaldo-cr7.gif`
+- `roy-williams.gif`
+- `shaq-fist-pump.gif`
+- `vinicius-junior-vini-jr.gif`
 
 ### Games and Action
 
+- `cj-cj-gta.gif`
 - `copy.gif`
 - `helldivers.gif`
 - `helldivers-2.gif`
 - `superman-drone.gif`
+
+### Videos
+
+- `dog.mp4`
+- `messi.mp4`
 
 ## Usage
 
