@@ -22,6 +22,7 @@ catalog. There is no build step, package manager, or app code.
 - `japan-japanese.gif`
 - `jurassic-park-surprised.gif`
 - `oscars-standing-ovation.gif`
+- `pc-broken.gif`
 - `pedro-pascal-laughing-then-crying.gif`
 - `perfect-10.gif`
 - `screaming.gif`
@@ -45,6 +46,7 @@ catalog. There is no build step, package manager, or app code.
 - `aro-volturi.gif`
 - `caze.gif`
 - `elon-musk.gif`
+- `gucciberg.gif`
 - `homelander-crowd.gif`
 - `jon-flex-tape.gif`
 - `jon-snow-game-of-thrones.gif`
