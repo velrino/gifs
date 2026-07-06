@@ -14,6 +14,7 @@ catalog. There is no build step, package manager, or app code.
 
 - `200.gif`
 - `borat-dancing.gif`
+- `carrying-broken-tv.gif`
 - `dance-funny.gif`
 - `eh-bee.gif`
 - `explosion.gif`
@@ -22,6 +23,7 @@ catalog. There is no build step, package manager, or app code.
 - `japan-japanese.gif`
 - `jurassic-park-surprised.gif`
 - `oscars-standing-ovation.gif`
+- `office-worker-computer.gif`
 - `pc-broken.gif`
 - `pedro-pascal-laughing-then-crying.gif`
 - `perfect-10.gif`
@@ -30,6 +32,7 @@ catalog. There is no build step, package manager, or app code.
 - `see-nobody-cares-nobody-cares.gif`
 - `shrek-surprised.gif`
 - `the-rock-think.gif`
+- `watching-sunrise.gif`
 - `wow.gif`
 - `zleffy.gif`
 
@@ -40,10 +43,13 @@ catalog. There is no build step, package manager, or app code.
 - `dog-angry.gif`
 - `judgy-dog-angry-dog.gif`
 - `manchas-dog.gif`
+- `monkey-road-rage.gif`
 
 ### People and Characters
 
+- `anakin-looking-back.gif`
 - `aro-volturi.gif`
+- `cape-verde-motorcycle-crowd.gif`
 - `caze.gif`
 - `elon-musk.gif`
 - `gucciberg.gif`
@@ -51,19 +57,24 @@ catalog. There is no build step, package manager, or app code.
 - `jon-flex-tape.gif`
 - `jon-snow-game-of-thrones.gif`
 - `lamar-humble.gif`
+- `mark-zuckerberg-drinking-water.gif`
 - `miss-chaves.gif`
 - `nicolas-cag.gif`
 - `putin-rain-putin.gif`
 - `ratinho-viadão.gif`
 - `the-rock-the-rock-meme.gif`
 - `tony-stark.gif`
+- `trump-sitting-down.gif`
 - `vegeta.gif`
 
 ### Sports
 
+- `argentina-kids-running.gif`
 - `carlo-ancelotti-brazil.gif`
 - `carlo-ancelotti-smile.gif`
 - `carlo-ancelotti.gif`
+- `cr7-pointing.gif`
+- `cr7-salute.gif`
 - `jose-mourinho-funky.gif`
 - `messi-crying.gif`
 - `messi-kiss-lionel-messi.gif`
@@ -75,6 +86,7 @@ catalog. There is no build step, package manager, or app code.
 - `ronaldo-cr7.gif`
 - `roy-williams.gif`
 - `shaq-fist-pump.gif`
+- `soccer-player-celebration.gif`
 - `vinicius-junior-vini-jr.gif`
 
 ### Games and Action
