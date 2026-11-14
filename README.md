@@ -259,15 +259,25 @@ in `assets/`. There is no build step, package manager, or app code.
       <sub><code>floating.gif</code></sub>
     </td>
     <td align="center" width="33%">
-      <a href="./assets/gandalf-laughing.gif"><img src="./assets/gandalf-laughing.gif" width="180" alt="gandalf laughing"></a><br>
-      <sub><code>gandalf-laughing.gif</code></sub>
+      <a href="./assets/gandalf-dev.gif"><img src="./assets/gandalf-dev.gif" width="180" alt="gandalf dev"></a><br>
+      <sub><code>gandalf-dev.gif</code></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="./assets/gandalf-golden.gif"><img src="./assets/gandalf-golden.gif" width="180" alt="gandalf golden"></a><br>
+      <sub><code>gandalf-golden.gif</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/gandalf-laughing.gif"><img src="./assets/gandalf-laughing.gif" width="180" alt="gandalf laughing"></a><br>
+      <sub><code>gandalf-laughing.gif</code></sub>
+    </td>
+    <td align="center" width="33%">
       <a href="./assets/gandalf.gif"><img src="./assets/gandalf.gif" width="180" alt="gandalf"></a><br>
       <sub><code>gandalf.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/giphy%20copy.gif"><img src="./assets/giphy%20copy.gif" width="180" alt="giphy copy"></a><br>
       <sub><code>giphy copy.gif</code></sub>
@@ -276,12 +286,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/goofy-ahh-dance.gif"><img src="./assets/goofy-ahh-dance.gif" width="180" alt="goofy ahh dance"></a><br>
       <sub><code>goofy-ahh-dance.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/hamster-peace.gif"><img src="./assets/hamster-peace.gif" width="180" alt="hamster peace"></a><br>
       <sub><code>hamster-peace.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/hamster-sleep.gif"><img src="./assets/hamster-sleep.gif" width="180" alt="hamster sleep"></a><br>
       <sub><code>hamster-sleep.gif</code></sub>
@@ -290,15 +300,19 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/helldivers-2.gif"><img src="./assets/helldivers-2.gif" width="180" alt="helldivers 2"></a><br>
       <sub><code>helldivers-2.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/helldivers.gif"><img src="./assets/helldivers.gif" width="180" alt="helldivers"></a><br>
       <sub><code>helldivers.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/homelander-crowd.gif"><img src="./assets/homelander-crowd.gif" width="180" alt="homelander crowd"></a><br>
       <sub><code>homelander-crowd.gif</code></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="./assets/homelander-disgust.gif"><img src="./assets/homelander-disgust.gif" width="180" alt="homelander disgust"></a><br>
+      <sub><code>homelander-disgust.gif</code></sub>
     </td>
     <td align="center" width="33%">
       <a href="./assets/homelander.gif"><img src="./assets/homelander.gif" width="180" alt="homelander"></a><br>
@@ -573,6 +587,10 @@ in `assets/`. There is no build step, package manager, or app code.
   </tr>
   <tr>
     <td align="center" width="33%">
+      <a href="./assets/soldier-night-vision.gif"><img src="./assets/soldier-night-vision.gif" width="180" alt="soldier night vision"></a><br>
+      <sub><code>soldier-night-vision.gif</code></sub>
+    </td>
+    <td align="center" width="33%">
       <a href="./assets/somebody-get-these-beggars-out-of-here-the-odyssey.gif"><img src="./assets/somebody-get-these-beggars-out-of-here-the-odyssey.gif" width="180" alt="somebody get these beggars out of here the odyssey"></a><br>
       <sub><code>somebody-get-these-beggars-out-of-here-the-odyssey.gif</code></sub>
     </td>
@@ -580,12 +598,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/spider-man-cigarro.gif"><img src="./assets/spider-man-cigarro.gif" width="180" alt="spider man cigarro"></a><br>
       <sub><code>spider-man-cigarro.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/spider-man-sad.gif"><img src="./assets/spider-man-sad.gif" width="180" alt="spider man sad"></a><br>
       <sub><code>spider-man-sad.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/spongebob-ascend.gif"><img src="./assets/spongebob-ascend.gif" width="180" alt="spongebob ascend"></a><br>
       <sub><code>spongebob-ascend.gif</code></sub>
@@ -594,12 +612,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/superman-drone.gif"><img src="./assets/superman-drone.gif" width="180" alt="superman drone"></a><br>
       <sub><code>superman-drone.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/tem-parada-errada-ai-irmao.gif"><img src="./assets/tem-parada-errada-ai-irmao.gif" width="180" alt="tem parada errada ai irmao"></a><br>
       <sub><code>tem-parada-errada-ai-irmao.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/the-rock-the-rock-meme.gif"><img src="./assets/the-rock-the-rock-meme.gif" width="180" alt="the rock the rock meme"></a><br>
       <sub><code>the-rock-the-rock-meme.gif</code></sub>
@@ -608,16 +626,22 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/the-rock-think.gif"><img src="./assets/the-rock-think.gif" width="180" alt="the rock think"></a><br>
       <sub><code>the-rock-think.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/throw-laptop-throw.gif"><img src="./assets/throw-laptop-throw.gif" width="180" alt="throw laptop throw"></a><br>
       <sub><code>throw-laptop-throw.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/tony-stark.gif"><img src="./assets/tony-stark.gif" width="180" alt="tony stark"></a><br>
       <sub><code>tony-stark.gif</code></sub>
     </td>
+    <td align="center" width="33%">
+      <a href="./assets/trump-military-uniform.gif"><img src="./assets/trump-military-uniform.gif" width="180" alt="trump military uniform"></a><br>
+      <sub><code>trump-military-uniform.gif</code></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/trump-sitting-down.gif"><img src="./assets/trump-sitting-down.gif" width="180" alt="trump sitting down"></a><br>
       <sub><code>trump-sitting-down.gif</code></sub>
@@ -626,12 +650,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/turn-up-the-volume.gif"><img src="./assets/turn-up-the-volume.gif" width="180" alt="turn up the volume"></a><br>
       <sub><code>turn-up-the-volume.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/vegeta.gif"><img src="./assets/vegeta.gif" width="180" alt="vegeta"></a><br>
       <sub><code>vegeta.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/vinicius-junior-vini-jr.gif"><img src="./assets/vinicius-junior-vini-jr.gif" width="180" alt="vinicius junior vini jr"></a><br>
       <sub><code>vinicius-junior-vini-jr.gif</code></sub>
@@ -640,12 +664,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/watching-sunrise.gif"><img src="./assets/watching-sunrise.gif" width="180" alt="watching sunrise"></a><br>
       <sub><code>watching-sunrise.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/westworld.gif"><img src="./assets/westworld.gif" width="180" alt="westworld"></a><br>
       <sub><code>westworld.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/wow.gif"><img src="./assets/wow.gif" width="180" alt="wow"></a><br>
       <sub><code>wow.gif</code></sub>
@@ -654,12 +678,12 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/wtf-wth.gif"><img src="./assets/wtf-wth.gif" width="180" alt="wtf wth"></a><br>
       <sub><code>wtf-wth.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/yes-approved.gif"><img src="./assets/yes-approved.gif" width="180" alt="yes approved"></a><br>
       <sub><code>yes-approved.gif</code></sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="33%">
       <a href="./assets/you-have-no-power-here-gandalf.gif"><img src="./assets/you-have-no-power-here-gandalf.gif" width="180" alt="you have no power here gandalf"></a><br>
       <sub><code>you-have-no-power-here-gandalf.gif</code></sub>
@@ -668,8 +692,6 @@ in `assets/`. There is no build step, package manager, or app code.
       <a href="./assets/zleffy.gif"><img src="./assets/zleffy.gif" width="180" alt="zleffy"></a><br>
       <sub><code>zleffy.gif</code></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
       <a href="./assets/zuck.gif"><img src="./assets/zuck.gif" width="180" alt="zuck"></a><br>
       <sub><code>zuck.gif</code></sub>
